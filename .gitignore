@@ -1,0 +1,48 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Packages
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Environments
+env/
+venv/
+.venv/
+
+# PyTest / Coverage
+htmlcov/
+.tox/
+coverage.xml
+.coverage
+.cache
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# macOS metadata files
+.DS_Store
+
+# Windows metadata files
+Thumbs.db
+
+# Visual Studio Code settings
+.vscode/
+
+# Idea / PyCharm
+.idea/
+
+# Local configuration files
+*.local
